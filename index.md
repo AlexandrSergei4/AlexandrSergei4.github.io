@@ -1,12 +1,16 @@
 # Paslen Timer
 
-Paslen Timer is a companion app for following the pomodoro method. The Pomodoro Method is a time-boxing technique for doing work and managing time. All work is divided into short time sections, and most importantly, during this period of time, some kind of calculable result should be obtained.
+ntroducing Paslen - where productivity meets elegance. Designed for those who seek to craft the most efficient work cycles, Paslen isn’t just a timer; it’s an experience. Dive deep into focused work sessions while enjoying a seamless and aesthetically pleasing interface that keeps you motivated.
 
-Paslen app is made to help follow the pomodoro principle, be mindful of the limited time while at the same time giving the aesthetic pleasure of using the timer:
+Key Features:
 
-Available functionality:
+ - Hand-Wound Timer Setting: Mindfully set your timer, using those moments to ponder over the upcoming task, enhancing mental preparation.
+ - Notifications: Never miss a beat with notifications alerting you of timer starts and completions.
+ - Quick Timer for Decision Making: Stuck in a rut? Utilize our short-timer to break through indecision and maintain a steady work pace.
+ - Audio Notes Feature: Keep your thought process uninterrupted. Speak and save audio notes to capture ideas or insights instantly.
+ - History & Storage: Reflect on your productivity journey with easy access to your timer histories and audio notes.
+ - Themes: Customize Paslen's appearance to suit your mood and style.
 
-1. Working time timer
-2. Break timer
-3. Logging timers
-4. Audio notes
+Get ready to revolutionize the way you manage time. With Paslen, make every second count
+
+[Private Policy](Paslen_Policy.md)
