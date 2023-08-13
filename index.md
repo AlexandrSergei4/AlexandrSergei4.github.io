@@ -1,8 +1,8 @@
 # Paslen Timer
 
-ntroducing Paslen - where productivity meets elegance. Designed for those who seek to craft the most efficient work cycles, Paslen isn’t just a timer; it’s an experience. Dive deep into focused work sessions while enjoying a seamless and aesthetically pleasing interface that keeps you motivated.
+Introducing __Paslen__ - where productivity meets elegance. Designed for those who seek to craft the most efficient work cycles, Paslen isn’t just a timer; it’s an experience. Dive deep into focused work sessions while enjoying a seamless and aesthetically pleasing interface that keeps you motivated.
 
-Key Features:
+### Key Features:
 
  - Hand-Wound Timer Setting: Mindfully set your timer, using those moments to ponder over the upcoming task, enhancing mental preparation.
  - Notifications: Never miss a beat with notifications alerting you of timer starts and completions.
