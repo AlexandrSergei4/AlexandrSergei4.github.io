@@ -1,4 +1,4 @@
-# Paslen Timer
+# <img src="ic_launcher.webp" alt="paslen app cion" width="40"/>  Paslen Timer 
 
 Introducing __Paslen__ - where productivity meets elegance. Designed for those who seek to craft the most efficient work cycles, Paslen isn’t just a timer; it’s an experience. Dive deep into focused work sessions while enjoying a seamless and aesthetically pleasing interface that keeps you motivated.
 
